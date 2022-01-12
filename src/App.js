@@ -8,7 +8,7 @@ function App() {
         <h1 className='text-center text-cyan-600 font-bold text-5xl'>
           Dardila.dev
         </h1>
-        <div className="flex justify-center text-2xl">
+        <div className="flex justify-center text-2xl text-white">
           <p>Hi, I'm Daniel Ardila. I'm a Software Engineer.</p>
         </div>
         <SocialIcons />
@@ -16,7 +16,7 @@ function App() {
       <main>
         {/* Experiences and Personal Projects */}
         <section>
-
+          
         </section>
       </main>
     </>
