@@ -1,0 +1,25 @@
+{
+  "data" : [
+    {
+      "title": "Superheroes",
+      "img": "/src/images/superheroes.png",
+      "description": "Simple app that list superheroes and have an option to filter by the ability to fly",
+      "tecnologies" : [
+        {
+          "name" : "react"
+        },
+        {
+          "name" : "html"
+        },
+        {
+          "name": "css"
+        },
+        {
+          "name": "javascript"
+        }
+      ],
+      "githubLink": "https://github.com/Dardila11/test_frontend",
+      "siteLink": "https://superheroes-centribal.netlify.app/"
+    }
+  ]
+}
