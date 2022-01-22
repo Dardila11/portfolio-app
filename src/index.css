@@ -2,6 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
   background-color: #1E2028;
 }
@@ -10,6 +14,10 @@ body {
 
   .section-projects {
     @apply flex flex-col justify-center items-center;
+  }
+
+  .section-fprojects {
+    @apply flex flex-col justify-center items-center bg-slate-400;
   }
 
   .social-icons {

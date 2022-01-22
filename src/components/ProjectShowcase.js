@@ -23,7 +23,6 @@ const ProjectShowcase = () => {
           <FaCss3Alt color='#0074d9' />
           <FaJs color='#f0db4f' />
           <FaReact color='#00d8ff' />
-          <FaGithub />
         </div>
       </div>
       {
